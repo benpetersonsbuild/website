@@ -1,4 +1,4 @@
-image: gitpod/workspace-full
+image: docker.pkg.github.com/benpetersonsbuild/devcontainer/dev-workstation:latest
 
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
