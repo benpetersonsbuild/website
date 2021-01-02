@@ -1,5 +1,2 @@
-image: docker.pkg.github.com/benpetersonsbuild/devcontainer/dev-workstation:latest
-
-tasks:
-  - init: 'echo "TODO: Replace with init/build command"'
-    command: 'echo "TODO: Replace with command to start project"'
+image: 
+  file: .gitpod.Dockerfile
